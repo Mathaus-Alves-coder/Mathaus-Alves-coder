@@ -28,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=333333&icon_color=3776AB" alt="Estatísticas do Mathaus" />
 </p>
 <br>
-<em>*Nota: Lembre-se de trocar "SEU_USUARIO_GITHUB" no código do arquivo pelo seu nome de usuário real do GitHub.*</em>
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathaus-alves-3364b4a8)
