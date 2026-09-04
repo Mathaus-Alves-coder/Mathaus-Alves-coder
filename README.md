@@ -25,7 +25,7 @@
 
 ## 📊 Visão Geral do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=333333&icon_color=3776AB" alt="Estatísticas do Mathaus" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathaus-Alves-coder&theme=transparent&hide_border=true&title_color=3776AB&text_color=333333&icon_color=3776AB" alt="Estatísticas do Mathaus" />
 </p>
 <br>
 
